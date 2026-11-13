@@ -6,7 +6,7 @@ Website for **Wynford Roadside Assistance**, a 24/7 towing and roadside company 
 **Status:** live, ongoing client work (I'm still working on it with the client)
 **Role:** design and development, by Fahad Jamal ([Code by FJ](https://codebyfj.com))
 
-<a href="https://www.wynfordroadsideassistance.com"><img src="assets/preview.gif" alt="Wynford Roadside Assistance homepage on desktop and mobile" width="100%" /></a>
+<a href="https://www.wynfordroadsideassistance.com"><img src="https://raw.githubusercontent.com/codebyfj/codebyfj/main/assets/wynford-preview.gif" alt="Wynford Roadside Assistance homepage on desktop and mobile" width="100%" /></a>
 
 ## The brief
 A driver stuck on the road should be able to reach the company in one tap, and the owner should be able to run the site without a developer.
